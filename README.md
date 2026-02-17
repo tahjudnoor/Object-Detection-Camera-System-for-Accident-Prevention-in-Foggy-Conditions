@@ -1,3 +1,6 @@
 # Object-Detection-Camera-System-for-Accident-Prevention-in-Foggy-Conditions
-This repository contains research on an AI-driven object detection system designed to prevent accidents in foggy and low-visibility conditions. The study explores how infrared imaging, LiDAR, radar sensors, sensor fusion, and deep-learning models can work together to detect obstacles and alert drivers in real time.
-This project is research-only (prototype not built yet) and demonstrates how modern AI and advanced sensors can significantly reduce fog-related accidents.
+This repository presents a research-based intelligent vision system designed to enhance road safety in foggy and low-visibility conditions. The system integrates infrared imaging, LiDAR, radar sensors, and AI-based object detection to identify vehicles, pedestrians, and obstacles in real time. Through sensor fusion and predictive alert mechanisms, it aims to significantly reduce fog-related accidents.
+
+This is a conceptual research and innovation project. A working prototype is under development.
+⚠ This project is currently under provisional patent filing.
+Detailed technical architecture and implementation specifics are not publicly disclosed.
